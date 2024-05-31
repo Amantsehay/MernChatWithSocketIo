@@ -1,7 +1,7 @@
 {
-	"name": "chat-app-yt",
+	"name": "chat-app",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Chat application developed by Amanuel ",
 	"main": "server.js",
 	"scripts": {
 		"server": "nodemon backend/server.js",
@@ -10,7 +10,7 @@
 	},
 	"type": "module",
 	"keywords": [],
-	"author": "",
+	"author": "Amanuel ",
 	"license": "ISC",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
