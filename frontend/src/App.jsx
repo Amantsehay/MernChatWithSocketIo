@@ -10,7 +10,7 @@ import MessageContainer from "./components/messages/MessageContainer";
 function App() {
 	const { authUser } = useAuthContext();
 	return (
-		<div className='p-10 h-screen flex items-center justify-center'>
+		<div className='p-4 h-screen flex items-center justify-center'>
 			<Routes>
 				{/* <Route path='*' element={<Navigate to='/Home' />} />
 				 */}
